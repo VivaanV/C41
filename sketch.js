@@ -7,7 +7,7 @@ var engine, world;
 var drops = [];
 var rand;
 
-var maxDrops=100;
+var maxDrops=150;
 
 var thunderCreatedFrame=0;
 
